@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 # S×S Memory
 
@@ -12,7 +12,7 @@
 ![Deps](https://img.shields.io/badge/dependencies-none-lightgrey)
 ![Lang](https://img.shields.io/badge/%E8%AF%AD%E6%96%99-74%2C472%20%E5%AD%97-blue)
 
-<img src="assets/hero.jpg" width="880" alt="S×S Memory">
+<img src="assets/demo.gif" width="820" alt="S×S Memory 片段：片头 → 提问 → 检索 → 结尾">
 
 </div>
 
@@ -199,6 +199,11 @@ OK
 
 这个仓库同时是一支产品短片的素材来源：短片用真实录屏演示了同一套 Skill 的一次完整调用（提问 → 本机检索 → 双声音回答 → 依据与边界）。
 
+<div align="center">
+<img src="assets/hero.jpg" width="700" alt="S×S Memory 品牌卡">
+<br><sub>片尾：S×S Memory — 一个融合「孙学」与「薄肌理论」的 AI 知识 Skill</sub>
+</div>
+
 ## 许可
 
 代码（`scripts/`、`tests/`）可自由复用，注明出处即可。
@@ -206,4 +211,5 @@ OK
 逐字稿与引文来自公开节目，版权归原节目与两位说话人所有；本仓库仅用于研究与个人学习，不主张对原始内容的版权。如果你是权利人并希望下架相关内容，请开 issue，会处理。
 
 本项目与邵艾伦、孙宇晨及节目制作方无隶属关系。
+
 
