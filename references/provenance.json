@@ -1,0 +1,7 @@
+{
+  "source_sha256": "9E85AB9867FA38DF5684D4C47C8FED22377CCBA32655E78B1D6CE23BC14FDEDF",
+  "evidence_sha256": "9D1517A4EAC4878E5BCEEAB0800A25EACC7D0289611D6CDCE8B4CC80330AAA3B",
+  "evidence_rows": 1190,
+  "source": "参考文献/完整逐字稿github.md",
+  "source_policy": "Canonical manuscript supplies wording; RAG alignment supplies speaker and location metadata."
+}
